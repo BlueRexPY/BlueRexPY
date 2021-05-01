@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World ✌
 
-<!--
-**BlueRexPY/BlueRexPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👴 16 y.o 
+- 🎓 I'm in the 10th grade
+- 🥟 I'm from Ukraine (Моя ненька Україна)
+- 🐍 Сoding on python and js ( питухонер и джаваскриптизор в одном лице )
+- 👰 My waifu - WEB
+- 👉👈 Interesting fact - you are cute
+- 💖 I'm waiting for you on my discord server (link to url profile)
+- 😢 Sad fact - my favorite drink is milk, but i'm lactose intolerant
+
