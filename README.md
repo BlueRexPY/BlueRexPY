@@ -11,4 +11,3 @@ Facts about me:
 - 👉👈 Interesting fact - you are cute
 - 💖 I'm waiting for you on my discord server (link to url profile)
 - 😢 Sad fact - my favorite drink is milk, but i'm lactose intolerant
-
