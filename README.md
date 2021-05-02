@@ -11,3 +11,32 @@ Facts about me:
 - 👉👈 Interesting fact - you are cute
 - 💖 I'm waiting for you on my discord server (link to url profile)
 - 😢 Sad fact - my favorite drink is milk, but i'm lactose intolerant
+
+My hard skills
+-🐍 Python3
+  [################|----]80% learned
+  • Discord.py
+  • Telebot.py
+  • Eel.py
+  • Pyperclip.py
+  • Pyowm.py
+  • Requests.py
+  • Pyautogui.py
+  • Mongo.py
+  • Subprocess.py
+  • Pytube.py
+  • Pynput.py
+  • Smtplib.py
+  
+-🌌 WEB(JS/HTML5/CSS3)
+  [########|------------]40% learned
+  • Anime.js
+  • Aos.js
+  • Flickity.js
+  • Vanilla-tilt.js
+  • Party.js
+  • Parallax.js
+  • Bg-lazyload.js
+  
+  
+  
