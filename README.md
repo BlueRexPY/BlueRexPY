@@ -11,6 +11,7 @@ Facts about me:
 - 💖 I'm waiting for you on my discord server (link to url profile)
 
 My hard skills
+
 -🐍 Python3
   [################|----]80% learned
   
