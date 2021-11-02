@@ -3,11 +3,10 @@
 
 Facts about me:
 
-- 👴 16 y.o 
-- 🎓 I'm in the 10th grade
+- 👴 17 y.o 
+- 🎓 I'm in the 11th grade
 - 🥟 I'm from Ukraine (Моя ненька Україна)
 - 🐍 Сoding on python and js ( питухонер и джаваскриптизор в одном лице )
-- 👰 My waifu - WEB
 - 💖 I'm waiting for you on my discord server (link to url profile)
 
 My hard skills
