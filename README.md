@@ -1,13 +1,8 @@
-### Hello World ✌
-
-
-Facts about me:
+### Open To Work ✌
 
 - 👴 17 y.o 
-- 🎓 I'm in the 11th grade
 - 🥟 I'm from Ukraine 
-- 🐍 Сoding on python and js
-- 💖 I'm waiting for you on my discord server (link to url profile)
-
-  
-  
+- 🐍 Сoding on JS and Python
+- 🟦 LinkedIn - https://www.linkedin.com/in/ruslan-ryscov-088b61206/
+- 📞 Telegram - @BlexPy
+- ✉️ Mail - ruslanryscovbluerex@gmail.com
