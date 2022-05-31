@@ -8,10 +8,10 @@
 </a>
 <br>
 <br>
-  Меня зовут Руслан, я Junior React Developer⚛️<br>
+  My name is Ruslan, I'm a Junior React Developer⚛️<br>
 
-  В свободное время от изучения программирования, занимаюсь спортом и играю в игры<br>
-<h3>В&nbsp;работе&nbsp;использую:</h3><br>
+  In my spare time from studying programming, I go in for sports and play games<br>
+<h3>In&nbsp;work&nbsp;I use:</h3><br>
 <div>
   <div>
     <img src="https://img.shields.io/badge/HTML5-code-FF9200?style=flat-square&logo=HTML5&labelColor=black"/>
@@ -29,7 +29,7 @@
 </div>
 <br>
 <details>
-  <summary>Статистика</summary>
+  <summary>Statistics</summary>
   <p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlueRexPY&show_icons=true&theme=radical" />
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueRexPY&theme=radical&layout=compact" />
