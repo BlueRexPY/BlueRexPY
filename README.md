@@ -20,11 +20,14 @@
     <img src="https://img.shields.io/badge/Javascript-code-FF9200?style=flat-square&logo=Javascript&labelColor=black"/>
     <img src="https://img.shields.io/badge/React-code-FF9200?style=flat-square&logo=React&labelColor=black"><br>
     <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
-    <img src="https://img.shields.io/badge/Python-code-FF9200?style=flat-square&logo=Python&labelColor=black">
+    <img src="https://img.shields.io/badge/Python-code-FF9200?style=flat-square&logo=Python&labelColor=black"> 
+    <img src="https://img.shields.io/badge/TypeScript-code-blue">
+     
   </div><br>
   <div>
     <img src="https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=Webpack&labelColor=black">
     <img src="https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=Figma&labelColor=black">
+     <img src="https://img.shields.io/badge/firebase-tool-red">
   </div>
 </div>
 <br>
