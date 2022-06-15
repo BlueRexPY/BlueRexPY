@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/React-code-FF9200?style=flat-square&logo=React&labelColor=black"><br>
     <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
     <img src="https://img.shields.io/badge/Python-code-FF9200?style=flat-square&logo=Python&labelColor=black"> 
+     <img src="https://img.shields.io/badge/TypeScript-code-FF9200?style=flat-square&logo=TypeScript&labelColor=blue"> 
     <img src="https://img.shields.io/badge/TypeScript-code-blue">
      
   </div><br>
