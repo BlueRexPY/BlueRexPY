@@ -11,10 +11,14 @@
 </a>
 
 <br>
-<br>
+
+
+    <h3>
   My name is Ruslan, I'm a Junior React Developer⚛️<br>
 
   In my spare time from studying programming, I go in for sports and play games<br>
+    </h3>
+  <br>
 <h3>In&nbsp;work&nbsp;I use:</h3><br>
 <div>
   <div>
