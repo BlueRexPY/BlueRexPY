@@ -13,7 +13,7 @@
 <h2>My name is Ruslan, I'm a Junior React Developer⚛️<br>In my spare time from studying programming, I go in for sports and play games<br></h2>
 <h3>In&nbsp;work&nbsp;I use:</h3><br>
 <div>
-    <h4>Code</h4><br>
+    <h4>Code</h4>
   <div>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
@@ -35,7 +35,7 @@
       
       
   </div>
-    <h4>Tools</h4><br>
+    <h4>Tools</h4>
   <div>
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
