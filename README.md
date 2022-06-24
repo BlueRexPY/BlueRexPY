@@ -41,12 +41,10 @@
   </div>
 </div>
 <br>
-<details>
   <h3>Statistics</h3>
   <p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlueRexPY&show_icons=true&theme=radical" />
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueRexPY&theme=radical&layout=compact" />
   </p>
-</details>
 <br>
 
