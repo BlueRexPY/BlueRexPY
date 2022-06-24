@@ -2,23 +2,15 @@
 
 <a target="_blank" href="https://t.me/Blex_PY">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+</a><br>
 <a target="_blank" href="mailto:ruslanryscovbluerex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a><br>
 <a target="_blank" href="https://www.linkedin.com/in/ruslan-ryscov-088b61206/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a><br>
 
-<br>
-
-
-    <h3>
-  My name is Ruslan, I'm a Junior React Developer⚛️<br>
-
-  In my spare time from studying programming, I go in for sports and play games<br>
-    </h3>
-  <br>
+<h2>My name is Ruslan, I'm a Junior React Developer⚛️<br>In my spare time from studying programming, I go in for sports and play games<br></h2>
 <h3>In&nbsp;work&nbsp;I use:</h3><br>
 <div>
   <div>
