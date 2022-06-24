@@ -6,6 +6,10 @@
 <a target="_blank" href="mailto:ruslanryscovbluerex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a target="_blank" href="https://www.linkedin.com/in/ruslan-ryscov-088b61206/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <br>
 <br>
   My name is Ruslan, I'm a Junior React Developer⚛️<br>
