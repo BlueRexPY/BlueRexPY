@@ -1,10 +1,10 @@
 ### Open To Work ✌
 
 <a target="_blank" href="https://t.me/Blex_PY">
-    <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a target="_blank" href="mailto:ruslanryscovbluerex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=flat-square&logo=Gmail&labelColor=1f1f1f"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br>
 <br>
