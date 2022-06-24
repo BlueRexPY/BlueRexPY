@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> 
     <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"> 
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/anime.js-F5788D.svg?style=for-the-badge&logo=anime.js&logoColor=white">
+    <img src="https://img.shields.io/badge/anime.js-D9342E.svg?style=for-the-badge&logo=anime.js&logoColor=white">
       
       
       
