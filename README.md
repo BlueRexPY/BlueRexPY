@@ -14,6 +14,7 @@
 <h3>In&nbsp;work&nbsp;I use:</h3><br>
 <div>
   <div>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/HTML5-code-FF9200?style=flat-square&logo=HTML5&labelColor=black"/>
     <img src="https://img.shields.io/badge/CSS3-code-FF9200?style=flat-square&logo=CSS3&labelColor=black"/>
     <img src="https://img.shields.io/badge/Sass-code-FF9200?style=flat-square&logo=Sass&labelColor=black">
@@ -22,6 +23,8 @@
     <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
     <img src="https://img.shields.io/badge/Python-code-FF9200?style=flat-square&logo=Python&labelColor=black"> 
     <img src="https://img.shields.io/badge/TypeScript-code-FF9200?style=flat-square&logo=TypeScript&labelColor=black"> 
+      
+      
   </div><br>
   <div>
     <img src="https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=Webpack&labelColor=black">
