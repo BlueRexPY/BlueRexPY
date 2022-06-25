@@ -49,4 +49,6 @@
   </p>
 <br>
 
+[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=BlueRexPY.BlueRexPY)](https://github.com/BlueRexPY/visitor-badge)
+
 
