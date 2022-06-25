@@ -49,6 +49,4 @@
   </p>
 <br>
 
-[![Hello visitors](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueRexPY/visitor-badge)
-
-
+[![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=BlueRexPY.BlueRexPY)](https://github.com/BlueRexPY/visitor-badge)
