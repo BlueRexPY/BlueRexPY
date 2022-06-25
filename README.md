@@ -50,3 +50,4 @@
 <br>
 
 [![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=BlueRexPY.BlueRexPY)](https://github.com/BlueRexPY/visitor-badge)
+[![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY)
