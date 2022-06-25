@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<h3>My name is Ruslan, I'm a Junior React Developer⚛️<br>In my spare time from studying programming, I go in for sports and play games<br></h3>
+<h3>Hi there, I'm Ruslan - Junior React Developer⚛️<br>In my spare time from studying programming, I go in for sports and play games<br></h3>
 <div>
     <h4>Code</h4>
   <div>
@@ -48,6 +48,5 @@
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueRexPY&theme=radical&layout=compact" />
   </p>
 <br>
-
 
 ![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
