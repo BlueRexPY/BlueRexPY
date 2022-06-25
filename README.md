@@ -48,5 +48,5 @@
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueRexPY&theme=radical&layout=compact" />
   </p>
 <br>
-[GitHub Profile Views Counter]: https://github.com/BlueRexPY/github-profile-views-counter
+
 
