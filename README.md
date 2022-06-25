@@ -50,4 +50,4 @@
 <br>
 
 
-![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=flat-square)
+![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
