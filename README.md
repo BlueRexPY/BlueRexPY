@@ -31,7 +31,8 @@
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/anime.js-D9342E.svg?style=for-the-badge&logo=anime.js&logoColor=white">
-    
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   </div>
     <h4>Tools</h4>
   <div>
