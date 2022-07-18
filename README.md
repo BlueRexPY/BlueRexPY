@@ -55,5 +55,5 @@
   </p>
 <br>
 
-(https://www.codewars.com/users/BlexPY/badges/micro)
+<img src="https://www.codewars.com/users/BlexPY/badges/micro"> 
 ![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
