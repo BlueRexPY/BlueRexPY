@@ -11,6 +11,7 @@
 </a>
 
 <h3>Hi there, I'm Ruslan - Junior React Developer⚛️<br>In my spare time from studying programming, I go in for sports and play games<br></h3>
+<img src="https://www.codewars.com/users/BlexPY/badges/small"> 
 <div>
     <h4>Code</h4>
   <div>
@@ -55,5 +56,4 @@
   </p>
 <br>
 
-<img src="https://www.codewars.com/users/BlexPY/badges/micro"> 
 ![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
