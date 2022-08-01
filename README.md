@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<h3>Hi there, I'm Ruslan - Junior React Developer⚛️<br>In my spare time from studying programming, I go in for sports and play games<br></h3>
+<h3>Hi there, I'm Ruslan - Junior React Developer⚛️<br></h3>
 <img src="https://www.codewars.com/users/BlexJS/badges/small"> 
 <div>
     <h4>Code</h4>
