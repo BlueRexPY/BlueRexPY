@@ -3,7 +3,7 @@
 <a target="_blank" href="https://t.me/Blex_PY">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a target="_blank" href="mailto:ruslanryscovbluerex@gmail.com">
+<a target="_blank" href="https://mail.google.com/mail/?view=cm&source=mailto&to=ruslanryscovbluerex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/ruslan-rystsov-088b61206/">
