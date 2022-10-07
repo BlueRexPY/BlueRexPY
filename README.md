@@ -15,7 +15,7 @@
 
 
 
-<h3>Hi there, I'm Ruslan - Junior React Developer⚛️<br>MobX > Redux<br></h3>
+<h3>Hi there, I'm Ruslan - Fullstack Developer⚛️<br>MobX > Redux<br></h3>
 <img src="https://www.codewars.com/users/BlexJS/badges/small"> 
 <div>
     <h4>Code</h4>
