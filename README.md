@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb">
+    <img src="https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo={svg가 변환된텍스트}">
     <br>
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/mobx-%23593d88.svg?style=for-the-badge&logo=mobx&logoColor=white">
