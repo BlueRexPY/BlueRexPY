@@ -1,5 +1,4 @@
 ### Welcome to my github profile ✌ 
-
 <a target="_blank" href="https://t.me/Blex_PY">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
@@ -12,7 +11,6 @@
 <a target="_blank" href="https://ruslan-rystsov.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white">
 </a>
-
 <h3>Hi there, I'm Ruslan - Fullstack Developer⚛️<br>MobX > Redux<br></h3>
 <img src="https://www.codewars.com/users/BlexJS/badges/small"> 
 <div>
@@ -75,5 +73,4 @@
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueRexPY&theme=radical&layout=compact" />
   </p>
 <br>
-
 ![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
