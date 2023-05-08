@@ -11,7 +11,7 @@
 <a target="_blank" href="https://ruslan-rystsov.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white">
 </a>
-<h3>Hi there, I'm Ruslan - Fullstack Developer⚛️<br>Recoil > Redux<br></h3>
+<h3>Hi there, I'm Ruslan - Ukrainian software engineer ⚛️</h3>
 <img src="https://www.codewars.com/users/BlexJS/badges/small"> 
 <div>
     <h4>Code</h4>
