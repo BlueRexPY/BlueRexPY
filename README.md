@@ -1,4 +1,4 @@
-### Welcome to my github profile ✌ 
+### Welcome to my github profile 🎃
 <a target="_blank" href="https://t.me/Blex_PY">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
