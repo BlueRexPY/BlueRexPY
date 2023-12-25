@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Recoil-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://camo.githubusercontent.com/9ed1f93fb10f5e3198f9730f6db58b7c8270e0034fde84d6737e69d6924eb070/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726564757820736167612d3933393339332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d72656475782d73616761266c6f676f436f6c6f723d666666">
     <img src="https://img.shields.io/badge/mobx-%23593d88.svg?style=for-the-badge&logo=mobx&logoColor=white">
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
