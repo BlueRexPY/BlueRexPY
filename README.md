@@ -5,7 +5,7 @@
 <a target="_blank" href="https://mail.google.com/mail/?view=cm&source=mailto&to=ruslanryscovbluerex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/ruslan-rystsov-088b61206/">
+<a target="_blank" href="https://www.linkedin.com/in/ruslan-rystsov/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a target="_blank" href="https://ruslan-rystsov.vercel.app/">
