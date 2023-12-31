@@ -1,6 +1,6 @@
-<div align="center">
 
-### Happy Halloween 🎃
+
+### Ukrainian Software Engineer ⚛️
 
 <a target="_blank" href="https://t.me/Blex_PY">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -14,8 +14,6 @@
 <a target="_blank" href="https://ruslan-rystsov.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white">
 </a>
-<h3>Ukrainian Software Engineer ⚛️</h3>
-<img src="https://www.codewars.com/users/BlexJS/badges/small"> 
 <details><summary>Technologies</summary>
   <div>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
@@ -71,6 +69,7 @@
 </details>
 
 <details><summary>Statistics</summary>
+  <img src="https://www.codewars.com/users/BlexJS/badges/small"> 
   <p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlueRexPY&show_icons=true&theme=radical" />
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueRexPY&theme=radical&layout=compact" />
@@ -80,4 +79,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bx6muqb6ksuqu0k7mda2hpdzw&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
-</div>
+
