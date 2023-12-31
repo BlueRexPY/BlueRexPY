@@ -77,7 +77,5 @@
     <img src ="https://spotify-github-profile.vercel.app/api/view?uid=bx6muqb6ksuqu0k7mda2hpdzw&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
 </details>
 
-
-
-![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
+![There was a profile visitors counter at this place, but it doesn’t work again...](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
 
