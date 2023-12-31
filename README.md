@@ -1,4 +1,6 @@
 ### Happy Halloween 🎃
+
+<div align="center">
 <a target="_blank" href="https://t.me/Blex_PY">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
@@ -13,8 +15,7 @@
 </a>
 <h3>Ukrainian Software Engineer ⚛️</h3>
 <img src="https://www.codewars.com/users/BlexJS/badges/small"> 
-<div>
-    <h4>Code</h4>
+<details><summary>Technologies</summary>
   <div>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge"/>
@@ -25,7 +26,6 @@
     <img src="https://img.shields.io/badge/Recoil-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-    <img src="https://camo.githubusercontent.com/9ed1f93fb10f5e3198f9730f6db58b7c8270e0034fde84d6737e69d6924eb070/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726564757820736167612d3933393339332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d72656475782d73616761266c6f676f436f6c6f723d666666">
     <img src="https://img.shields.io/badge/mobx-%23593d88.svg?style=for-the-badge&logo=mobx&logoColor=white">
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -48,7 +48,6 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
-    <h4>Tools</h4>
   <div>
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
     <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"> 
@@ -68,13 +67,16 @@
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> 
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"> 
   </div>
-</div>
-<br>
-  <h3>Statistics</h3>
+</details>
+
+<details><summary>Statistics</summary>
   <p>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlueRexPY&show_icons=true&theme=radical" />
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BlueRexPY&theme=radical&layout=compact" />
   </p>
-<br>
+</details>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bx6muqb6ksuqu0k7mda2hpdzw&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ![Hello visitors](https://komarev.com/ghpvc/?username=BlueRexPY&style=for-the-badg)
+</div>
