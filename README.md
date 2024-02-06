@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/anime.js-D9342E.svg?style=for-the-badge&logo=anime.js&logoColor=white">
     <img src="https://img.shields.io/badge/Grammy-%23007ACC.svg?style=for-the-badge&logo=Grammy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
+    <img src="https://img.shields.io/badge/Handlebars.js-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white"/>
