@@ -55,6 +55,8 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">  
     <img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white">
     <img src="https://img.shields.io/badge/anime.js-D9342E.svg?style=for-the-badge&logo=anime.js&logoColor=white">
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white"/>
     <img src="https://img.shields.io/badge/Grammy-%23007ACC.svg?style=for-the-badge&logo=Grammy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
     <img src="https://img.shields.io/badge/Handlebars.js-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white">
