@@ -11,9 +11,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/ruslan-rystsov/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a target="_blank" href="https://bsky.app/profile/ruslan-dev.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white"/>
-</a>
 <a target="_blank" href="https://ruslan-rystsov.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white">
 </a>
